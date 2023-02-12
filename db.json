@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": "Nischal",
+      "name": "Semmantula Nischal",
+      "password": "123",
+      "email": "nischal200216@gmail.com",
+      "phone": "7449054917",
+      "country": "india",
+      "address": "L29E Bharathidasan colony  Kk Nagar Chennai 78",
+      "gender": "male"
+    },
+    {
+      "id": "Swarna",
+      "name": "Sangana Swarna",
+      "password": "456",
+      "email": "swarna@gmail.com",
+      "phone": "7815925641",
+      "country": "india",
+      "address": "D No 1/27 Sangam Main Bazar",
+      "gender": "female"
+    }
+  ]
+}
